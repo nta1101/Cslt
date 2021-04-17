@@ -13,10 +13,3 @@ int main()
     printf("%d", &s);
     return 0;
 }
-
-//nay moi bai 2 a
-
-//them bai 3 bai 4 vo di
-
-//day la bai 3
-//day la bai 4
